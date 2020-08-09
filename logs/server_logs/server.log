@@ -1,0 +1,40 @@
+INFO      2020-05-15 15:43:31,091       decos     Some text
+INFO      2020-05-15 15:47:53,609       decos     Some text
+INFO      2020-05-15 15:47:53,610       server    Starts on localhost:8888
+INFO      2020-05-15 15:47:53,610       server    Closes
+INFO      2020-05-15 15:48:22,509       decos     Some text
+INFO      2020-05-15 15:48:33,793       decos     Some text
+INFO      2020-05-15 15:48:33,795       server    Starts on localhost:8888
+INFO      2020-05-15 15:48:33,795       decos     Some text
+INFO      2020-05-15 15:52:00,656       server    Closes
+INFO      2020-05-15 15:52:00,765       decos     start_server(){}
+INFO      2020-05-15 15:52:00,767       server    Starts on localhost:8888
+INFO      2020-05-15 15:52:00,767       decos     send_and_receive(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8888)>,){}
+INFO      2020-05-15 15:52:50,962       server    Closes
+INFO      2020-05-15 15:52:51,066       decos     Function: start_server Args:() Kwargs: {}
+INFO      2020-05-15 15:52:51,068       server    Starts on localhost:8888
+INFO      2020-05-15 15:52:51,068       decos     Function: send_and_receive Args:(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8888)>,) Kwargs: {}
+INFO      2020-05-15 15:53:14,182       server    Closes
+INFO      2020-05-15 15:53:14,285       decos     Function: start_server Args: () Kwargs: {}
+INFO      2020-05-15 15:53:14,286       server    Starts on localhost:8888
+INFO      2020-05-15 15:53:14,286       decos     Function: send_and_receive Args: (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8888)>,) Kwargs: {}
+INFO      2020-05-15 16:08:06,717       server    Closes
+INFO      2020-05-15 16:09:00,834       server    Starts on localhost:8888
+INFO      2020-05-15 16:13:12,817       decos     main       args: () kwargs: {}
+INFO      2020-05-15 16:14:01,518       decos     main       args: () kwargs: {}
+INFO      2020-05-15 16:17:20,051       decos     main       args: () kwargs: {}
+INFO      2020-05-15 16:18:40,533       decos     main       args: () kwargs: {}
+INFO      2020-05-15 16:19:40,564       decos     some_function args: () kwargs: {}
+INFO      2020-05-15 16:20:19,744       decos     some_function args: () kwargs: {}
+INFO      2020-05-15 16:20:25,714       decos     some_function args: () kwargs: {}
+INFO      2020-05-15 16:20:40,842       decos     some_function args: () kwargs: {}
+INFO      2020-05-15 16:26:32,246       decos     Func: some_function Called: main Args: () Kwargs: {}
+INFO      2020-05-15 16:32:26,296       server    Closes
+INFO      2020-05-15 16:32:26,422       decos     Func: start_server Called: <module> Args: () Kwargs: {}
+INFO      2020-05-15 16:32:26,424       server    Starts on localhost:8888
+INFO      2020-05-15 16:32:30,047       server    Code 200 from message: {'action': 'presence', 'time': 1589549550.046867, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-15 16:44:37,644       decos     Func: some_function Called: main Args: () Kwargs: {}
+INFO      2020-05-15 16:44:53,594       decos     Func: inner Called: main Args: () Kwargs: {}
+INFO      2020-05-15 16:44:53,594       decos     Func: some_function Called: inner Args: () Kwargs: {}
+INFO      2020-05-15 16:45:13,957       decos     Func: some_function Called: main Args: () Kwargs: {}
+INFO      2020-05-15 16:45:20,428       decos     Func: some_function Called: main Args: () Kwargs: {}

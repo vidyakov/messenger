@@ -1,0 +1,34 @@
+INFO      2020-05-12 17:35:47,735       server    Server starts on localhost:8888
+INFO      2020-05-12 17:35:53,329       server    Code 200 from message: {'action': 'presence', 'time': 1589294153.329149, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 17:38:53,747       server    Server closes
+INFO      2020-05-12 17:38:53,847       server    Server starts on localhost:8888
+INFO      2020-05-12 17:38:57,906       server    Code 200 from message: {'action': 'presence', 'time': 1589294337.906314, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 17:39:41,111       server    Code 200 from message: {'action': 'presence', 'time': 1589294381.1114721, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 17:39:51,437       server    Code 200 from message: {'action': 'presence', 'time': 1589294391.43765, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 17:39:52,248       server    Code 200 from message: {'action': 'presence', 'time': 1589294392.247822, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 17:41:41,138       server    Server closes
+INFO      2020-05-12 17:41:41,239       server    Server starts on localhost:8888
+INFO      2020-05-12 17:41:44,969       server    Code 200 from message: {'action': 'presence', 'time': 1589294504.9690409, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 17:43:47,383       server    Server closes
+INFO      2020-05-12 18:02:48,787       server    Closes
+INFO      2020-05-12 18:02:48,903       server    Starts on localhost:8888
+INFO      2020-05-12 18:02:55,078       server    Closes
+INFO      2020-05-12 18:03:45,524       server    Starts on localhost:8888
+INFO      2020-05-12 18:03:48,200       server    Code 200 from message: {'action': 'presence', 'time': 1589295828.2000608, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 18:03:54,306       server    Code 200 from message: {'action': 'presence', 'time': 1589295834.3064919, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 18:03:54,949       server    Code 200 from message: {'action': 'presence', 'time': 1589295834.949507, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 18:03:55,369       server    Code 200 from message: {'action': 'presence', 'time': 1589295835.369101, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 18:07:25,233       server    Closes
+INFO      2020-05-12 18:07:25,351       server    Starts on localhost:8888
+INFO      2020-05-12 18:07:28,759       server    Code 200 from message: {'action': 'presence', 'time': 1589296048.759647, 'type': 'status', 'user': {'account_name': None, 'status': None}}
+INFO      2020-05-12 18:25:19,923       server    Closes
+INFO      2020-05-12 18:26:26,297       client    Starts on localhost:8888
+INFO      2020-05-12 18:26:26,298       client    Probe message have been received
+INFO      2020-05-12 18:26:26,298       client    Closes
+INFO      2020-05-12 18:30:44,648       client    Starts on localhost:8888
+INFO      2020-05-12 18:30:44,649       client    Probe message have been received
+INFO      2020-05-12 18:30:44,649       client    Closes
+INFO      2020-05-15 16:32:30,044       decos     Func: start_client Called: <module> Args: () Kwargs: {}
+INFO      2020-05-15 16:32:30,046       client    Starts on localhost:8888
+INFO      2020-05-15 16:32:30,048       client    Probe message have been received
+INFO      2020-05-15 16:32:30,048       client    Closes
